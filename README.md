@@ -31,6 +31,9 @@
 - Election_Analysis
 - School_District_Analysis
 - PyBer_Analysis
-     
+- World_Weather_Analysis
+- Pewlett-Hackard-Analysis
+- Movies-ETL
+- surfs_up
 
 
