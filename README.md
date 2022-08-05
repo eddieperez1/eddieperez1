@@ -6,7 +6,7 @@
 ## Education
 - Bacholor's of Engineering South Dakota School of Mines
 - IBM Coursera Data Analyst Certification
-- University of Denver Bootcamp: Data Analyst
+- University of Denver Bootcamp: Data Analyst Certificate
     
 ## Interests
 - Chess
@@ -23,6 +23,7 @@
 - SQL
 - Tableau
 - Power BI
+- Machine Learning: Linear Regression
 	
 ## Projects
 ### DU Data Analyst Bootcamp repositories
@@ -35,5 +36,15 @@
 - Pewlett-Hackard-Analysis
 - Movies-ETL
 - surfs_up
+- Mission-to-Mars
+- UFOs
+- Belly-Button-Plotly
+- Mapping_Earthquakes
+- bikesharing
+- AutosRUsWithRStudio
+- Amazon_Vine_Analysis
+- Credit_Risk_Analysis
+- Cryptocurrencies_ml
+- NBA-Prediction
 
 
