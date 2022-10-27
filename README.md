@@ -10,7 +10,6 @@
     
 ## Interests
 - Chess
-- Mobile gaming
 - Volunteering in my community: Ronald McDonald House
 - Pursuit of knowledge: Languages, Science, Mathematics
 
